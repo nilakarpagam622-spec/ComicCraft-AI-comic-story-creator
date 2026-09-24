@@ -15,4 +15,4 @@ ComicCraft is an AI-powered comic story generator using Google Gemini models. It
 
 ## Demo Video
 * [Watch Demo Video on Google Drive](https://drive.google.com/file/d/1q6giDo6otpMOtRVgzVCXwYCjqi-1Vdrd/view?usp=drivesdk)
-*
+
